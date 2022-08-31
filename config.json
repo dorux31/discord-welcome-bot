@@ -1,14 +1,14 @@
 {
     "DEFAULTS": {
-        "AUTHORS": [],
+        "AUTHORS": [chiwas],
         "ACTIVITY_TEXT": "Polemikal Voice System",
-        "GUILD_ID": "",
-        "VOICE_CHANNEL": "",
-        "MIN_STAFF_ROLE": ""
+        "GUILD_ID": "1014433076107018271",
+        "VOICE_CHANNEL": "1006902104134254632",
+        "MIN_STAFF_ROLE": "1006902049943863396"
     },
     "FILES": {
         "WELCOME": "default_files/<welcome-voice>.mp3",
         "STAFF": "default_files/<staff-voice>.mp3"
     },
-    "TOKEN": "BOT_TOKEN"
+    "TOKEN": "MTAxNDQzMzA3NjEwNzAxODI3MQ.GAAnwX.fgNV-dLAU1LyCpI9rIfvtOyKOEfjoaIwn4UliM"
 }
